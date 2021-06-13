@@ -4,13 +4,13 @@ Ini adalah hasil project saya dalam membuat sebuah aplikasi Resep Makanan berbas
 ## Stack Technology
 Native PHP 7,
 Vanila JavaScript,
-Bootstrap 5
+Bootstrap V5
 
 ## API 
 https://github.com/tomorisakura/unofficial-masakapahariini-api
 
 ## Demo
-https://github.com/tomorisakura/unofficial-masakapahariini-api
+https://satubstripsatu.000webhostapp.com/recipes-food-app
 
 ## About me
 Mahasiswa D3 Teknik Informatika 2020 Politeknik Hasnur
